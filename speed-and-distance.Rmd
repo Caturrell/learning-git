@@ -1,7 +1,5 @@
 ---
 title: "Speed and Distance"
-author: "caturrell"
-date: "`r Sys.Date()`"
 ---
 
 ```{r setup, include=FALSE}
